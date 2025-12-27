@@ -7,6 +7,7 @@ This project examines the relationship between social media usage and productivi
 The analysis explores how daily social media time, screen habits, stress, and sleep impact perceived and actual productivity scores across demographics like age, gender, and job type. It uses a subset of 3,000 records from a 30,000-record dataset with 17 features, focusing on patterns via visualizations and correlations.
 
 **Dataset**
+
 Source: Kaggle dataset "Social Media vs Productivity" (https://www.kaggle.com/datasets/mahdimashayekhi/social-media-vs-productivity).[1]
 
 **Features:**
