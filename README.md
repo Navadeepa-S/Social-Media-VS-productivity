@@ -30,7 +30,7 @@ After cleaning (handling ~10-12% missing values, no duplicates), 1,354 complete 
 
 **Usage**
 
-* Run Social_Media_Vs_Productivity_FINAL-3.ipynb in Jupyter/Colab (Python 3, pandas, seaborn, matplotlib required).
+* Run Social_Media_Vs_Productivity_FINAL-6.ipynb in Jupyter/Colab (Python 3, pandas, seaborn, matplotlib required).
 ​
 
 * Dataset auto-loads via Colab upload or local CSV ("SOCIAL MEDIA VS PRODUCTIVITY ORG.csv").
